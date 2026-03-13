@@ -1,4 +1,4 @@
-# Тестовое задание Data Analyst
+# Тестовое задание Junior Аналитик данных
 
 Выполнено тестовое задание для позиции аналитика данных.
 
@@ -7,4 +7,4 @@
 - probability.md — задачи по теории вероятностей
 - python_tasks.ipynb — задачи на Python
 - sql_tasks.sql — SQL решения
-- statistics & ML.md — статистика и ML задачи
+- statistics_ml.md — статистика и ML задачи
